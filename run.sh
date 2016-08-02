@@ -1,1 +1,1 @@
-docker run -d -p 80:80 --name testrunproxy testproxy
+docker run -d -p 80:80 --name zabbixrunproxy zabbix 
